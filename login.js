@@ -15,7 +15,7 @@ function Submit(){
                 showConfirmButton: false,
                 timer: 1500
               })
-            window.location.href="https://waqasalamzeb.github.io/Todo-App/"
+            window.location.href="https://waqasalamzeb.github.io/cart/"
         } 
         
         else {
