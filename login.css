@@ -17,7 +17,7 @@
 
 
 .container { 
-    background: url(../image/login-bg.jpg);
+    background: url(./image/login-bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@ img#update {
     letter-spacing: 5px;
 }
 .container{
-    background: url(../image/login-bg.jpg);
+    background: url(./image/login-bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
